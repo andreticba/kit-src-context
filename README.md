@@ -1,4 +1,4 @@
-<!-- README.md | Atualizado em: 12-10-2026 21:26:52(GMT-04:00) -->
+<!-- README.md | Atualizado em: 16-10-2026 17:18:43(GMT-04:00) -->
 
 # 🧠 Painel de Contexto — kit_src
 
@@ -20,8 +20,8 @@
 ```mermaid
 flowchart TD
   Cloud(("☁️ Git Remoto / Hub"))
-  M_17a6f667["💻 ai-control<br/><i>sdd-judge-robustness</i><br/><code>Integrado</code>"]
-  M_17a6f667 <-->|"12-10-2026 21:23:00(GMT-04:00)"| Cloud
+  M_17a6f667["💻 ai-control<br/><i>task-verifier-workflow</i><br/><code>Integrado</code>"]
+  M_17a6f667 <-->|"16-10-2026 17:15:51(GMT-04:00)"| Cloud
   style M_17a6f667 stroke:#8250df,stroke-width:2px,fill:#fbefff,color:#8250df
   style Cloud stroke:#1a7f37,stroke-width:2px,fill:#dafbe1,color:#1a7f37
 ```
@@ -46,11 +46,11 @@ flowchart TD
   <tbody>
     <tr>
       <td><strong>ai-control</strong> (<code>17a6f667</code>)</td>
-      <td>sdd-judge-robustness</td>
+      <td>task-verifier-workflow</td>
       <td align="center"><img src="https://img.shields.io/badge/-Integrado-purple?style=flat-square" alt="Integrado" /></td>
       <td align="center"><span style="color:green;">●</span> Concluído</td>
-      <td>12-10-2026 21:23:00(GMT-04:00)</td>
-      <td><strong>Release v0.6.1 ou início de novo ciclo de feature com sdd_judge robusto ativo</strong></td>
+      <td>16-10-2026 17:15:51(GMT-04:00)</td>
+      <td><strong>Testar localmente na próxima sessão o funcionamento ponta a ponta do kit e workflows no repositório, validando o novo fluxo antes de qualquer submissão ao GitHub.</strong></td>
     </tr>
   </tbody>
 </table>
@@ -60,9 +60,9 @@ flowchart TD
 ## 🎯 Sessão Ativa em Destaque
 
 - **Estação Ativa:** `ai-control` (`17a6f667`)
-- **Tarefa em Execução:** sdd-judge-robustness
-- **🎯 Próximo Passo Prioritário (P0):** `Release v0.6.1 ou início de novo ciclo de feature com sdd_judge robusto ativo`
-- **Última Sincronização:** `12-10-2026 21:23:00(GMT-04:00)`
+- **Tarefa em Execução:** task-verifier-workflow
+- **🎯 Próximo Passo Prioritário (P0):** `Testar localmente na próxima sessão o funcionamento ponta a ponta do kit e workflows no repositório, validando o novo fluxo antes de qualquer submissão ao GitHub.`
+- **Última Sincronização:** `16-10-2026 17:15:51(GMT-04:00)`
 
 ---
 
@@ -75,6 +75,7 @@ flowchart TD
 
 | Data / Hora | Estação (ID) | Tarefa Executada | Próximo Passo (P0) |
 | :--- | :--- | :--- | :--- |
+| 16-10-2026 17:15:51(GMT-04:00) | `ai-control (17a6f667)` | task-verifier-workflow | `Testar localmente na próxima sessão o funcionamento ponta a ponta do kit e workflows no repositório, validando o novo fluxo antes de qualquer submissão ao GitHub.` |
 | 12-10-2026 21:23:00(GMT-04:00) | `ai-control (17a6f667)` | sdd-judge-robustness | `Release v0.6.1 ou início de novo ciclo de feature com sdd_judge robusto ativo` |
 </details>
 
